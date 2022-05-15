@@ -1,0 +1,5 @@
+Credentials cache: API:714DBD4C-ECA8-4006-9F9B-7309E345833B
+        Principal: rmerzak@1337.MA
+
+  Issued                Expires               Principal
+Aug  3 13:06:44 2021  Aug  3 23:06:44 2021  krbtgt/1337.MA@1337.MA
